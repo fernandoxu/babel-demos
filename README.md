@@ -1,2 +1,2 @@
-# bable-demos
+# babel-demos
 learn babel
