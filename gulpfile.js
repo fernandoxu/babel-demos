@@ -6,5 +6,4 @@ gulp.task('babel', function(){
     .pipe(babel())
     .pipe(gulp.dest('build'))
 });
-
 gulp.task('default', ["babel"]);
